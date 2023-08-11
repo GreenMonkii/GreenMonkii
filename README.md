@@ -1,7 +1,7 @@
 - 👋 Hi, I’m print("@GreenMonkii").
-- 👀 I’m interested in Automation using Programming.
-- 🌱 I’m currently learning Python and JS.
-- 💞️ I’m looking to collaborate on new ideas for 'whatever'.
+- 👀 I’m interested in Automation using Programming. Currently learning R, Kotlin, Swift and SQL
+- 🌱 I have knowledge in Python, HTML/CSS JavaScript, C# and Shell Scripting. Also in frameworks like Django, Flask, React and React Native.
+- 💞️ I’m looking to collaborate on new ideas for 'CODE'.
 - 📫 How to reach me? >> abramsharry6@gmail.com
 
 <!---
