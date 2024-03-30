@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm print("@GreenMonkii"), and I'm passionate abou
 ## About Me
 
 - 👀 I’m interested in Automation using Programming.
-- 🌱 Currently learning R, Kotlin, C#, and SQL.
+- 🌱 Currently learning Kotlin and SQL.
 - 💻 Proficient in Python, HTML/CSS, JavaScript, and Shell Scripting.
 - 🚀 Experienced with frameworks like Django, Flask, React, and React Native.
 
