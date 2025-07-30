@@ -1,18 +1,22 @@
-I’m **@GreenMonkii**, a dedicated software developer with a focus on automation and optimizing IT workflows through programming.
+## @GreenMonkii
 
-## Expertise
+I’m Truelife Agada — a dedicated **software developer** who enjoys breaking down complex problems into simple, effective solutions. My focus is on **automation** and creating tools that make workflows faster, smarter, and more reliable.  
 
-- **Programming Languages:** Proficient in Python, JavaScript, TypeScript, HTML/CSS, and Shell Scripting.
-- **Frameworks & Tools:** Experienced with Django, Flask, React, and React Native.
-- **Current Focus:** Expanding knowledge in Kotlin and SQL to enhance technical skills and project versatility.
+## ✦ Expertise
 
-## Professional Interests
+➤ **Languages:** Python, TypeScript, JavaScript, Shell Scripting, HTML/CSS  
+➤ **Frameworks & Tools:** Django, React, Next.js, Express.js, React Native  
+➤ **Currently Exploring:** Kotlin, Flutter, and SQL to expand cross-platform and backend expertise  
 
-- **Automation:** Passionate about developing solutions that streamline and automate tasks.
-- **Continuous Learning:** Committed to staying updated with the latest technologies and industry trends.
+## ✦ Professional Interests
 
-## Contact
+➤ **Automation & Optimization:** Designing systems that streamline tasks and reduce repetitive work  
+➤ **Scalable Solutions:** Writing clean, maintainable code with real-world impact  
+➤ **Continuous Growth:** Exploring new technologies and sharing knowledge through technical writing and collaboration  
 
-- **Email:** [agadatruelife@gmail.com](mailto:agadatruelife@gmail.com)
+## ✦ Contact
 
-Feel free to explore my repositories and connect with me for discussions on potential collaborations or innovative projects.
+➤ **Email:** [agadatruelife@gmail.com](mailto:agadatruelife@gmail.com)  
+➤ **GitHub:** [@GreenMonkii](https://github.com/GreenMonkii)  
+
+✦ Always open to collaborating on innovative projects that aim to make a lasting difference.  
